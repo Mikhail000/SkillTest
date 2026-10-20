@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d423278c7365e824eb8b04df453b45cb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 309950
+  packageName: Skill System
+  packageVersion: 1.0.0
+  assetPath: Assets/SkillSystem/Demos/Demo 2/Scripts/SSDemo2ForceApplier.cs
+  uploadId: 735399

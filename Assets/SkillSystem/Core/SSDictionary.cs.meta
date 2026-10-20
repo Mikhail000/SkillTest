@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8aa2f222b4ad84145889d214ba6ec1a3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 309950
+  packageName: Skill System
+  packageVersion: 1.0.0
+  assetPath: Assets/SkillSystem/Core/SSDictionary.cs
+  uploadId: 735399
